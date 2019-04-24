@@ -1,7 +1,9 @@
 # Epytodo
 
 Python Project with Flask
+
 Database in SQL
+
 To start : ./run
 
 To Do : 
